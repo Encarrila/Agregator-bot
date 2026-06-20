@@ -1,3 +1,4 @@
+# Newsletter diario de IA: recolecta fuentes, cura con OpenAI y envía por Resend.
 name: AI Daily Digest
 
 on:
