@@ -17,6 +17,14 @@ for _stream in (sys.stdout, sys.stderr):
     except (AttributeError, ValueError):
         pass
 
+# Carga .env para corridas locales. En CI (GitHub Actions) las keys vienen de
+# los secrets como variables de entorno, así que esto es inocuo si no hay .env.
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 import config
 from sources import fetch_papers, fetch_news, fetch_models, fetch_markets
 from digest import curate, render_html, render_text, send_email
