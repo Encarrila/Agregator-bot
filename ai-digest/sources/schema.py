@@ -32,4 +32,5 @@ SECTIONS: list[dict[str, str]] = [
     {"key": "news", "title": "🚀 Productos y lanzamientos"},
     {"key": "models", "title": "🤗 Nuevos modelos (Hugging Face)"},
     {"key": "markets", "title": "📈 Mercado: acciones de IA"},
+    {"key": "trials", "title": "👀 Fuentes a prueba (¿las sumamos?)"},
 ]

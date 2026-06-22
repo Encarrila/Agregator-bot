@@ -18,5 +18,5 @@ def test_item_meta_is_isolated_between_instances():
 
 def test_sections_keys_match_pipeline_buckets():
     keys = {s["key"] for s in SECTIONS}
-    assert keys == {"papers", "news", "models", "markets"}
+    assert keys == {"papers", "news", "models", "markets", "trials"}
     assert all(s["title"] for s in SECTIONS)  # todas tienen título visible

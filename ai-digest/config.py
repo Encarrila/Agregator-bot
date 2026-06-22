@@ -43,9 +43,22 @@ WATCHLIST: dict[str, str] = {
 LIMITS = {
     "papers": 12,
     "models": 10,
-    "news_hours": 36,   # ventana de noticias recientes
+    "news_hours": 36,    # ventana de noticias recientes
     "news_per_feed": 6,
+    "trial_hours": 72,   # ventana más amplia para fuentes "a prueba"
+    "trial_per_feed": 3,
 }
+
+# --- Panel de fuentes en Notion (opcional) ---------------------------------
+# Si NOTION_TOKEN y NOTION_SOURCES_DB están seteados, el digest lee fuentes
+# extra desde una base de Notion (ver sources/notion_sources.py). Si no, se
+# usa solo NEWS_FEEDS de arriba. La base tiene columnas:
+#   Nombre (title) · URL (url) · Tipo (select) · Estado (select: Aprobada/En prueba/Rechazada)
+
+# --- Anti-repetición --------------------------------------------------------
+# Secciones a las que se aplica el ledger de "ya enviado". markets y models
+# quedan afuera: sus valores cambian a diario y repetir el ítem es esperado.
+DEDUP_SECTIONS = {"papers", "news", "trials"}
 
 # --- Curado con OpenAI ------------------------------------------------------
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")

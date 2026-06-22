@@ -7,6 +7,9 @@ on:
     - cron: "0 11 * * *"
   workflow_dispatch:        # permite dispararlo a mano desde la pestaña Actions
 
+permissions:
+  contents: write          # para commitear el ledger anti-repetición de vuelta
+
 jobs:
   send-digest:
     runs-on: ubuntu-latest
@@ -32,4 +35,16 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_SOURCES_DB: ${{ secrets.NOTION_SOURCES_DB }}
         run: python main.py
+
+      - name: Persistir ledger anti-repetición
+        if: always()         # guardamos lo enviado aunque un paso posterior falle
+        working-directory: ${{ github.workspace }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ai-digest/state/seen.json || true
+          git commit -m "chore: update seen ledger [skip ci]" || echo "Sin cambios en el ledger"
+          git push || echo "Nada para pushear"

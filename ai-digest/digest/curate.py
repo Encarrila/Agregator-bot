@@ -33,6 +33,9 @@ Criterios de selección por sección:
 - models: destacá modelos útiles o novedosos; explicá en una frase para qué sirven.
 - markets: resumí el clima general en una frase (qué subió/bajó fuerte y por qué,
   si se infiere del movimiento).
+- trials: son FUENTES "a prueba" que el usuario evalúa sumar. Resumí qué publicó
+  cada una para que pueda decidir si vale la pena seguirla. Mantené el nombre de
+  la fuente visible en el title.
 
 Tono: claro, conciso, español rioplatense neutro. Sin hype. Cada blurb: 1-2 frases.
 """
@@ -41,15 +44,12 @@ _SYSTEM = EDITORIAL_GUIDELINES + """
 
 Devolvé EXCLUSIVAMENTE un JSON con esta forma:
 {
-  "sections": {
-    "papers":  [{"title": str, "url": str, "blurb": str}, ...],
-    "news":    [...],
-    "models":  [...],
-    "markets": [...]
-  },
+  "sections": { "<clave_de_seccion>": [{"title": str, "url": str, "blurb": str}, ...] },
   "intro": "una frase que sintetice el día"
 }
-Máximo 5 ítems por sección. Usá los `url` exactos que recibís, no inventes.
+Incluí en "sections" UNA entrada por cada clave que recibís en el input (papers,
+news, models, markets, trials, etc.). Máximo 5 ítems por sección. Usá los `url`
+exactos que recibís, no inventes.
 """
 
 
