@@ -138,5 +138,49 @@
  {
   "url": "https://huggingface.co/nvidia/LocateAnything-3B",
   "date": "2026-06-24"
+ },
+ {
+  "url": "https://arxiv.org/abs/2606.25358v1",
+  "date": "2026-06-25"
+ },
+ {
+  "url": "https://arxiv.org/abs/2606.25491v1",
+  "date": "2026-06-25"
+ },
+ {
+  "url": "https://arxiv.org/abs/2606.25308v1",
+  "date": "2026-06-25"
+ },
+ {
+  "url": "https://arxiv.org/abs/2606.25668v1",
+  "date": "2026-06-25"
+ },
+ {
+  "url": "https://arxiv.org/abs/2606.25488v1",
+  "date": "2026-06-25"
+ },
+ {
+  "url": "https://openai.com/index/how-agents-are-transforming-work",
+  "date": "2026-06-25"
+ },
+ {
+  "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+  "date": "2026-06-25"
+ },
+ {
+  "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+  "date": "2026-06-25"
+ },
+ {
+  "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+  "date": "2026-06-25"
+ },
+ {
+  "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+  "date": "2026-06-25"
+ },
+ {
+  "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+  "date": "2026-06-25"
  }
 ]
