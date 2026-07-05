@@ -390,5 +390,45 @@
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
   "date": "2026-07-04"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.02496v1",
+  "date": "2026-07-05"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.02037v1",
+  "date": "2026-07-05"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.01794v1",
+  "date": "2026-07-05"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.01763v1",
+  "date": "2026-07-05"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+  "date": "2026-07-05"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+  "date": "2026-07-05"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+  "date": "2026-07-05"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+  "date": "2026-07-05"
+ },
+ {
+  "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+  "date": "2026-07-05"
+ },
+ {
+  "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+  "date": "2026-07-05"
  }
 ]
