@@ -1,49 +1,5 @@
 [
  {
-  "url": "https://arxiv.org/abs/2606.20287v1",
-  "date": "2026-06-22"
- },
- {
-  "url": "https://arxiv.org/abs/2606.20264v1",
-  "date": "2026-06-22"
- },
- {
-  "url": "https://arxiv.org/abs/2606.20138v1",
-  "date": "2026-06-22"
- },
- {
-  "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-  "date": "2026-06-22"
- },
- {
-  "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-  "date": "2026-06-22"
- },
- {
-  "url": "https://huggingface.co/zai-org/GLM-5.2",
-  "date": "2026-06-22"
- },
- {
-  "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-  "date": "2026-06-22"
- },
- {
-  "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
-  "date": "2026-06-22"
- },
- {
-  "url": "https://finance.yahoo.com/quote/GOOGL",
-  "date": "2026-06-22"
- },
- {
-  "url": "https://finance.yahoo.com/quote/PLTR",
-  "date": "2026-06-22"
- },
- {
-  "url": "https://finance.yahoo.com/quote/META",
-  "date": "2026-06-22"
- },
- {
   "url": "https://arxiv.org/abs/2606.23315v1",
   "date": "2026-06-23"
  },
@@ -454,5 +410,25 @@
  {
   "url": "https://huggingface.co/InternScience/Agents-A1",
   "date": "2026-07-06"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.05068v1",
+  "date": "2026-07-07"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.05034v1",
+  "date": "2026-07-07"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.04572v1",
+  "date": "2026-07-07"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+  "date": "2026-07-07"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+  "date": "2026-07-07"
  }
 ]
