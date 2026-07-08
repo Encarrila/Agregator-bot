@@ -1,73 +1,5 @@
 [
  {
-  "url": "https://arxiv.org/abs/2606.23315v1",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://arxiv.org/abs/2606.23205v1",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://arxiv.org/abs/2606.23237v1",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://arxiv.org/abs/2606.23412v1",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://arxiv.org/abs/2606.23491v1",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://openai.com/index/omio",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://openai.com/index/daybreak-securing-the-world",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://openai.com/index/patch-the-planet",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://huggingface.co/baidu/Unlimited-OCR",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://finance.yahoo.com/quote/AMD",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://finance.yahoo.com/quote/TSM",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://finance.yahoo.com/quote/BOTZ",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://finance.yahoo.com/quote/NVDA",
-  "date": "2026-06-23"
- },
- {
-  "url": "https://finance.yahoo.com/quote/MSFT",
-  "date": "2026-06-23"
- },
- {
   "url": "https://arxiv.org/abs/2606.24104v1",
   "date": "2026-06-24"
  },
@@ -430,5 +362,41 @@
  {
   "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
   "date": "2026-07-07"
+ },
+ {
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+  "date": "2026-07-08"
+ },
+ {
+  "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+  "date": "2026-07-08"
+ },
+ {
+  "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "date": "2026-07-08"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+  "date": "2026-07-08"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+  "date": "2026-07-08"
+ },
+ {
+  "url": "https://huggingface.co/tencent/Hy3",
+  "date": "2026-07-08"
+ },
+ {
+  "url": "https://huggingface.co/zai-org/GLM-5.2",
+  "date": "2026-07-08"
+ },
+ {
+  "url": "https://finance.yahoo.com/quote/META",
+  "date": "2026-07-08"
+ },
+ {
+  "url": "https://finance.yahoo.com/quote/PLTR",
+  "date": "2026-07-08"
  }
 ]
