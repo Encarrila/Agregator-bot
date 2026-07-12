@@ -1,21 +1,5 @@
 [
  {
-  "url": "https://arxiv.org/abs/2606.26213v1",
-  "date": "2026-06-27"
- },
- {
-  "url": "https://arxiv.org/abs/2606.27210v1",
-  "date": "2026-06-27"
- },
- {
-  "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-  "date": "2026-06-27"
- },
- {
-  "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-  "date": "2026-06-27"
- },
- {
   "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
   "date": "2026-06-28"
  },
@@ -430,5 +414,9 @@
  {
   "url": "https://finance.yahoo.com/quote/NVDA",
   "date": "2026-07-11"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+  "date": "2026-07-12"
  }
 ]
