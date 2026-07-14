@@ -1,41 +1,5 @@
 [
  {
-  "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-  "date": "2026-06-28"
- },
- {
-  "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-  "date": "2026-06-28"
- },
- {
-  "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-  "date": "2026-06-28"
- },
- {
-  "url": "https://arxiv.org/abs/2606.28186v1",
-  "date": "2026-06-29"
- },
- {
-  "url": "https://arxiv.org/abs/2606.27536v1",
-  "date": "2026-06-29"
- },
- {
-  "url": "https://arxiv.org/abs/2606.27527v1",
-  "date": "2026-06-29"
- },
- {
-  "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-  "date": "2026-06-29"
- },
- {
-  "url": "https://openai.com/index/hp-frontier-partnership",
-  "date": "2026-06-29"
- },
- {
-  "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-  "date": "2026-06-29"
- },
- {
   "url": "https://arxiv.org/abs/2606.30549v1",
   "date": "2026-06-30"
  },
@@ -418,5 +382,49 @@
  {
   "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
   "date": "2026-07-12"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.11873v1",
+  "date": "2026-07-14"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.11692v1",
+  "date": "2026-07-14"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.11314v1",
+  "date": "2026-07-14"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.11292v1",
+  "date": "2026-07-14"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.11276v1",
+  "date": "2026-07-14"
+ },
+ {
+  "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+  "date": "2026-07-14"
+ },
+ {
+  "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+  "date": "2026-07-14"
+ },
+ {
+  "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+  "date": "2026-07-14"
+ },
+ {
+  "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+  "date": "2026-07-14"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+  "date": "2026-07-14"
+ },
+ {
+  "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+  "date": "2026-07-14"
  }
 ]
