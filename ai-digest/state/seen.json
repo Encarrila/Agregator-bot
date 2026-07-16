@@ -1,33 +1,5 @@
 [
  {
-  "url": "https://arxiv.org/abs/2606.31642v1",
-  "date": "2026-07-01"
- },
- {
-  "url": "https://arxiv.org/abs/2606.31508v1",
-  "date": "2026-07-01"
- },
- {
-  "url": "https://arxiv.org/abs/2606.31048v1",
-  "date": "2026-07-01"
- },
- {
-  "url": "https://arxiv.org/abs/2606.30908v1",
-  "date": "2026-07-01"
- },
- {
-  "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-  "date": "2026-07-01"
- },
- {
-  "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-  "date": "2026-07-01"
- },
- {
-  "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-  "date": "2026-07-01"
- },
- {
   "url": "https://arxiv.org/abs/2607.00274v1",
   "date": "2026-07-02"
  },
@@ -438,5 +410,49 @@
  {
   "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
   "date": "2026-07-15"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.14046v1",
+  "date": "2026-07-16"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.14044v1",
+  "date": "2026-07-16"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.13901v1",
+  "date": "2026-07-16"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.13433v1",
+  "date": "2026-07-16"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.13370v1",
+  "date": "2026-07-16"
+ },
+ {
+  "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+  "date": "2026-07-16"
+ },
+ {
+  "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+  "date": "2026-07-16"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+  "date": "2026-07-16"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+  "date": "2026-07-16"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+  "date": "2026-07-16"
+ },
+ {
+  "url": "https://huggingface.co/thinkingmachines/Inkling",
+  "date": "2026-07-16"
  }
 ]
