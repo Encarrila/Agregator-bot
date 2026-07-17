@@ -1,25 +1,5 @@
 [
  {
-  "url": "https://arxiv.org/abs/2607.00274v1",
-  "date": "2026-07-02"
- },
- {
-  "url": "https://arxiv.org/abs/2607.00211v1",
-  "date": "2026-07-02"
- },
- {
-  "url": "https://arxiv.org/abs/2607.00140v1",
-  "date": "2026-07-02"
- },
- {
-  "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-  "date": "2026-07-02"
- },
- {
-  "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-  "date": "2026-07-02"
- },
- {
   "url": "https://arxiv.org/abs/2607.02432v1",
   "date": "2026-07-03"
  },
@@ -454,5 +434,45 @@
  {
   "url": "https://huggingface.co/thinkingmachines/Inkling",
   "date": "2026-07-16"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.14591v1",
+  "date": "2026-07-17"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.14575v1",
+  "date": "2026-07-17"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.14735v1",
+  "date": "2026-07-17"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.14729v1",
+  "date": "2026-07-17"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.15176v1",
+  "date": "2026-07-17"
+ },
+ {
+  "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+  "date": "2026-07-17"
+ },
+ {
+  "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+  "date": "2026-07-17"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+  "date": "2026-07-17"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+  "date": "2026-07-17"
+ },
+ {
+  "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+  "date": "2026-07-17"
  }
 ]
