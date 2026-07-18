@@ -1,49 +1,5 @@
 [
  {
-  "url": "https://arxiv.org/abs/2607.02432v1",
-  "date": "2026-07-03"
- },
- {
-  "url": "https://arxiv.org/abs/2607.01934v1",
-  "date": "2026-07-03"
- },
- {
-  "url": "https://arxiv.org/abs/2607.01795v1",
-  "date": "2026-07-03"
- },
- {
-  "url": "https://arxiv.org/abs/2607.02007v1",
-  "date": "2026-07-03"
- },
- {
-  "url": "https://arxiv.org/abs/2607.02020v1",
-  "date": "2026-07-03"
- },
- {
-  "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-  "date": "2026-07-03"
- },
- {
-  "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-  "date": "2026-07-03"
- },
- {
-  "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-  "date": "2026-07-03"
- },
- {
-  "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-  "date": "2026-07-03"
- },
- {
-  "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-  "date": "2026-07-03"
- },
- {
-  "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
-  "date": "2026-07-03"
- },
- {
   "url": "https://arxiv.org/abs/2607.02502v1",
   "date": "2026-07-04"
  },
@@ -474,5 +430,21 @@
  {
   "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
   "date": "2026-07-17"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.15247v1",
+  "date": "2026-07-18"
+ },
+ {
+  "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+  "date": "2026-07-18"
+ },
+ {
+  "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+  "date": "2026-07-18"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+  "date": "2026-07-18"
  }
 ]
