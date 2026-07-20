@@ -1,45 +1,5 @@
 [
  {
-  "url": "https://arxiv.org/abs/2607.02496v1",
-  "date": "2026-07-05"
- },
- {
-  "url": "https://arxiv.org/abs/2607.02037v1",
-  "date": "2026-07-05"
- },
- {
-  "url": "https://arxiv.org/abs/2607.01794v1",
-  "date": "2026-07-05"
- },
- {
-  "url": "https://arxiv.org/abs/2607.01763v1",
-  "date": "2026-07-05"
- },
- {
-  "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-  "date": "2026-07-05"
- },
- {
-  "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-  "date": "2026-07-05"
- },
- {
-  "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-  "date": "2026-07-05"
- },
- {
-  "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-  "date": "2026-07-05"
- },
- {
-  "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-  "date": "2026-07-05"
- },
- {
-  "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
-  "date": "2026-07-05"
- },
- {
   "url": "https://huggingface.co/blog/lerobot-release-v060",
   "date": "2026-07-06"
  },
@@ -446,5 +406,29 @@
  {
   "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
   "date": "2026-07-19"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.15829v1",
+  "date": "2026-07-20"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.15738v1",
+  "date": "2026-07-20"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.16115v1",
+  "date": "2026-07-20"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+  "date": "2026-07-20"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+  "date": "2026-07-20"
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+  "date": "2026-07-20"
  }
 ]
