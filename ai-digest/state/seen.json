@@ -1,25 +1,5 @@
 [
  {
-  "url": "https://arxiv.org/abs/2607.05068v1",
-  "date": "2026-07-07"
- },
- {
-  "url": "https://arxiv.org/abs/2607.05034v1",
-  "date": "2026-07-07"
- },
- {
-  "url": "https://arxiv.org/abs/2607.04572v1",
-  "date": "2026-07-07"
- },
- {
-  "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-  "date": "2026-07-07"
- },
- {
-  "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-  "date": "2026-07-07"
- },
- {
   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
   "date": "2026-07-08"
  },
@@ -430,5 +410,37 @@
  {
   "url": "https://huggingface.co/blog/grabette",
   "date": "2026-07-21"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.19209v1",
+  "date": "2026-07-22"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.18767v1",
+  "date": "2026-07-22"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.18529v1",
+  "date": "2026-07-22"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.18432v1",
+  "date": "2026-07-22"
+ },
+ {
+  "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+  "date": "2026-07-22"
+ },
+ {
+  "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+  "date": "2026-07-22"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+  "date": "2026-07-22"
+ },
+ {
+  "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+  "date": "2026-07-22"
  }
 ]
