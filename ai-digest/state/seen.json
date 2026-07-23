@@ -1,41 +1,5 @@
 [
  {
-  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-  "date": "2026-07-08"
- },
- {
-  "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-  "date": "2026-07-08"
- },
- {
-  "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-  "date": "2026-07-08"
- },
- {
-  "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-  "date": "2026-07-08"
- },
- {
-  "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-  "date": "2026-07-08"
- },
- {
-  "url": "https://huggingface.co/tencent/Hy3",
-  "date": "2026-07-08"
- },
- {
-  "url": "https://huggingface.co/zai-org/GLM-5.2",
-  "date": "2026-07-08"
- },
- {
-  "url": "https://finance.yahoo.com/quote/META",
-  "date": "2026-07-08"
- },
- {
-  "url": "https://finance.yahoo.com/quote/PLTR",
-  "date": "2026-07-08"
- },
- {
   "url": "https://openai.com/index/government-national-security-partnerships",
   "date": "2026-07-09"
  },
@@ -442,5 +406,53 @@
  {
   "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
   "date": "2026-07-22"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.20149v1",
+  "date": "2026-07-23"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.20047v1",
+  "date": "2026-07-23"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.19988v1",
+  "date": "2026-07-23"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.19699v1",
+  "date": "2026-07-23"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.19253v1",
+  "date": "2026-07-23"
+ },
+ {
+  "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+  "date": "2026-07-23"
+ },
+ {
+  "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+  "date": "2026-07-23"
+ },
+ {
+  "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+  "date": "2026-07-23"
+ },
+ {
+  "url": "https://openai.com/index/introducing-openai-presence",
+  "date": "2026-07-23"
+ },
+ {
+  "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+  "date": "2026-07-23"
+ },
+ {
+  "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+  "date": "2026-07-23"
+ },
+ {
+  "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+  "date": "2026-07-23"
  }
 ]
