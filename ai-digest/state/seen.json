@@ -1,9 +1,5 @@
 [
  {
-  "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-  "date": "2026-07-12"
- },
- {
   "url": "https://arxiv.org/abs/2607.11873v1",
   "date": "2026-07-14"
  },
@@ -438,5 +434,57 @@
  {
   "url": "https://finance.yahoo.com/quote/BOTZ",
   "date": "2026-07-26"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.22463v1",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.22377v1",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.22345v1",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.21887v1",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://arxiv.org/abs/2607.21777v1",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://finance.yahoo.com/quote/PLTR",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://finance.yahoo.com/quote/GOOGL",
+  "date": "2026-07-27"
+ },
+ {
+  "url": "https://finance.yahoo.com/quote/MSFT",
+  "date": "2026-07-27"
  }
 ]
